@@ -1,4 +1,4 @@
-# curso-visualizacion-datos
+###  ***Curso de Periodismo y Visualización de Datos***
 # hola
 
 ### Esto es una prueba
